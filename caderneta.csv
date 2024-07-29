@@ -1,0 +1,9 @@
+Carimbo de data/hora,Endereço de e-mail,RESIDENTE ,NOME DO PACIENTE,PRONTUÁRIO,DATA DA CIRURGIA,ESPECIALIDADE,PROCEDIMENTO REALIZADO,DIAGNÓSTICO COM CID,NÍVEL DE PARTICIPAÇÃO,INFORMAÇÕES ADICIONAIS,Estudei para a cirurgia ? ( anônimo)
+14/04/2021 22:00:51,email1@email.com,Residente1,paciente1,6425724,13/04/2021,OMBRO E COTOVELO,Banda de tensão olecrano ,Fratura de Olecrano S520,REALIZADO TOTAL SOB SUPERVISÃO,,
+15/04/2021 09:48:23,email2@email.com,Residente2,paciente2,6424430,15/04/2021,OMBRO E COTOVELO,Tratamento cirúrgico fratura-luxação do cotovelo ,S52.1 S53.1,AUXILIEI,,
+15/04/2021 16:19:47,email4@email.com,Residente4,paciente3,6424332,15/04/2021,TRAUMA,Tratamento cirúrgico de fratura bimaleolar,S82.5 S86.6,AUXILIEI,,
+15/04/2021 19:13:20,email1@email.com,Residente1,paciente4,6429460,15/04/2021,PLANTÃO,Tratamento cirúrgico de empalamento de membro superior ,W45,REALIZEI MENOS DE 50%,,
+15/04/2021 23:44:03,email2@email.com,Residente2,paciente5,6428328,15/04/2021,OMBRO E COTOVELO,Tratamento cirúrgico de fatura de clavícula do distal,S420,REALIZEI MAIS DE 50%,,
+16/04/2021 02:47:56,email3@email.com,Residente3,paciente6,6417770,15/04/2021,PLANTÃO,reposicionado fixador externo quebrado,fratura bimaleolar s825,REALIZEI MAIS DE 50%,,
+16/04/2021 02:50:31,email3@email.com,Residente3,paciente7,6329313,15/04/2021,PLANTÃO,tratamento cirurgico de fratura de galeazzi,s523,REALIZEI MAIS DE 50%,,
+16/04/2021 02:52:18,email4@email.com,Residente4,paciente8,6429505,16/04/2021,JOELHO,FIXADOR EXTERNO TRANS ARTICULA PARA FX DE PLATO TIBIAL,S821,REALIZADO TOTAL SOB SUPERVISÃO,,
